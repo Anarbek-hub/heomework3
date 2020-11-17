@@ -41,6 +41,8 @@ public class Main {
                     double d = minValue;
                     minValue = arr[i1];
                     arr[i1] = d;
+
+
                 }
             }
             arr[i] = minValue;
